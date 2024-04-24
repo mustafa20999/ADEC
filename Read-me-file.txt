@@ -1,0 +1,5 @@
+
+Apple Diseases Extensive Collection (ADEC)
+resources, has a total of 2, 976 and is comprised of eight classes: ‘Apple
+Blotch, Apple brown rot, Apple cork spots, Apple Powdery mildew,
+Apple rot, Apple scab, and Apple Normal’
